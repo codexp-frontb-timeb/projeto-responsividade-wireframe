@@ -70,3 +70,26 @@
    }
 
 /* fim links rede social mobile-*/
+
+/* o botão foi colocado mas é elemnto comum à demais sections -*/
+    .plano-basic{
+        padding: 10px 10px;
+        margin: 5% 5%;   
+        text-align: center;
+        background-color: rgb(220,220,220);
+    }
+    .preco-plano{
+        margin: 0 10% 10% 0;
+        font-weight: bold;
+        font-size: 5em;
+        text-align: center;
+        box-sizing: border-box;
+    }
+   
+    button{
+        width: 50%;
+        padding: 15px;
+        margin-bottom: 10%;
+    }
+
+/* fim bloco de planos -*/
