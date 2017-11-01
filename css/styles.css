@@ -10,7 +10,10 @@
         }
 
 
+@media(min-width: 768px)
+
 /*Alteraçoes padrao*/
+
 .link{
             text-decoration: none;
         }
@@ -46,8 +49,6 @@
     padding:5px;
     border: solid 1px black;
     width: 40%;
-   
-   
     
 }
 
