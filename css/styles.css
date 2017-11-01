@@ -4,7 +4,7 @@
             width: 100vw;
         }
         body {
-            padding 0;
+            padding: 0;
             box-sizing: border-box;
             margin: 0;
         }
@@ -23,3 +23,59 @@
             border: none;
             border-radius: 20%;
         }
+
+
+    /* Alteraçoes padrao */
+
+
+    /* CSS - rodapé */
+
+.conjunto-links{
+  
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%; 
+    text-align: center;
+}
+
+
+.lista-links{    
+    margin: 0;
+    display: inline-block;
+    box-sizing: border-box;
+    padding:5px;
+    border: solid 1px black;
+    width: 40%;
+   
+   
+    
+}
+
+.lista-links_title{
+    list-style-type: none;
+   
+    padding:0;
+}
+.lista-links_lista{
+ 
+    list-style-type: none;
+    
+    padding:0;
+    -moz-text-decoration-color: blue;
+    -webkit-text-fill-color: blue;
+    -webkit-text-stroke-color: blue;
+}
+
+/* inicio links rede social mobile-*/
+
+    .rede-social-grupo-icones{
+        text-align: center;
+    }
+
+    .rede-social-icone{
+        border-radius: 50%;
+        width: 2em;
+        margin: 0.1em;
+   }
+
+/* fim links rede social mobile-*/
