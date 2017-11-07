@@ -260,4 +260,20 @@ body {
         display: inline-block;
     }
 
+    .conjunto-links{
+        width: 30%;
+        display: inline-block;
+    }
+
+    .rede-social-grupo-icones{
+        width: 30%;
+        display: inline-block;
+        margin: 0;
+    }
+
+    .pesquisa{
+    width: 30%;
+    display: inline-block;
+    }
+
 }
