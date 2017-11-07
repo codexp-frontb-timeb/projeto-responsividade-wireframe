@@ -9,9 +9,6 @@
             margin: 0;
         }
 
-
-@media(min-width: 768px){
-
 /*Alteraçoes padrao*/
 
 .link{
@@ -146,4 +143,7 @@
     }
 
 /* fim bloco de planos -*/
+
+@media(min-width: 768px){
+    
 }
