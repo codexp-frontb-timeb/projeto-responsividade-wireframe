@@ -99,6 +99,7 @@
 .lista-links_lista{
  
     list-style-type: none;
+    text-align: justify;
     
     padding:0;
     -moz-text-decoration-color: blue;
@@ -145,7 +146,7 @@
 
 
     .plano-checado-img{
-        width:20px;
+        width:20%;
     }
 
 /* fim bloco de planos -*/
