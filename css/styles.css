@@ -149,6 +149,10 @@
         width: 10%;
     }
 
+    .plano-checado-item{
+        display: inline-block;
+    }
+
 /* fim bloco de planos -*/
 
 @media(min-width: 768px){
