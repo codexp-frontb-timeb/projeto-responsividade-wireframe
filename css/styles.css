@@ -236,6 +236,9 @@ body {
 
 @media(min-width: 767px){
 
+    .plano{
+        display: inline-block; 
+    }
     .plano-standart{
        display: inline-block;
     }
