@@ -230,7 +230,7 @@ body {
 
 /* fim bloco de planos -*/
 
-@media(min-width: 768px){
+@media(min-width: 767px){
 
     .plano-standart{
        display: inline-block;
