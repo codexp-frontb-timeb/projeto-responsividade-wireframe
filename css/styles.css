@@ -147,6 +147,7 @@
 
     .plano-checado-img{
         width: 10%;
+        display: inline-block;
     }
 
     .plano-checado-item{
