@@ -12,7 +12,7 @@
             width: 100vw;
         }
         body {
-            padding 0;
+            padding: 0;
             box-sizing: border-box;
             margin: 0;
         }
@@ -21,51 +21,64 @@
         .bolinha-item-lista{
             list-style: none;
         }
+        .figure-margin{
+            margin: 0;
+        }
 
-        /* NAVBAR */
+        /* Menu */
+
         .menu{
             background-color: gray;
             width: 100%;
+            color: white;
         }
         .menu__logo{
             display: inline-block;
-            margin: 0;
+            margin: auto 0;
             width: 20%;
         }
         .menu__logo__img{
-            width: 90%;
+            width: 100%;
         }
         .menu__titulo{
             display: inline-block;
             width: 30%;
+            position: relative;
         }
         .menu__lista{
             text-align: left;
-        }
-        .menu__lista + ul: hover{
-            display: block;
+            display: inline-block;
         }
         .menu__lista-oculta{
             display: none;
             text-align: left;
         }
+
+        /* Hero */
         
-        .menu__lista{
-            display: inline-block;
+        .hero{
+            background-color: gray;
+            width: 100%;
+            color: white;
+            text-align: center;
         }
+        .hero__titulo{
+            margin: 0;
+        }
+
     </style>
 </head>
 <body>
     <header>
         <nav class="menu">
-            <figure class="menu__logo">
-                <img class="menu__logo__img" src="img/logo.PNG" alt="logo">
+            <figure class="menu__logo ">
+                <img class="menu__logo__img" src="img/logo.png" alt="logo">
             </figure>
 
-            <h1 class="menu__titulo">LOREM LOREM LOREM</h1>
+            <h1 class="menu__titulo">LOREM</h1>
 
-            <figure class="menu__lista">
-                <img src="img/menu.PNG" alt="menu">
+            <figure class="menu__lista figure-margin">
+                    <img class="" src="img/menu.png" alt="menu">
             </figure>
 
             <ul class="menu__lista-oculta bolinha-item-lista">
@@ -74,6 +87,13 @@
                 <li>Item 3</li>
             </ul>
         </nav>
+        <section class="hero">
+            <h1 class="hero__titulo" >LOREM LOREM LOREM</h1>
+            <p class="hero__texto">Lorem ipsum dolor sit, amet consectetur adipisici
+                ng elit. Accusantium voluptates accusamus iste nulla quod architecto
+                consequuntur odit dolore? Veniam nam nulla temporibus deserunt natus 
+                aliquam vero eius vel nobis explicabo.</p>
+        </section>
     </header>
 </body>
 </html>
