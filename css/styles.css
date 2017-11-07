@@ -56,7 +56,7 @@
         .menu__lista{
             text-align: left;
         }
-        .menu__lista + ul: hover{
+        .menu__lista + ul:hover{
             display: block;
         }
         .menu__lista-oculta{
@@ -107,6 +107,7 @@
     -moz-text-decoration-color: blue;
     -webkit-text-fill-color: blue;
     -webkit-text-stroke-color: blue;
+    text-decoration-color: blue;
 }
 
 /* inicio links rede social mobile-*/
