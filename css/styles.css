@@ -271,9 +271,61 @@ body {
         margin: 0;
     }
 
+    .rede-social-icone{
+        width: 32%;
+        display: inline-block;
+    }
+
+
     .pesquisa{
     width: 30%;
     display: inline-block;
     }
 
+    
 }
+
+@media(min-width: 992px){
+    
+        .plano{
+            display: inline-block; 
+            width:30%;
+
+        }
+        .plano-standart{
+           display: inline-block;
+           width:30%;
+        }
+    
+        .plano-pro{
+            display: inline-block;
+            width:30%;
+        }
+    
+        .noticias{
+            width: 30%;
+            display: inline-block;
+        }
+    
+        .conjunto-links{
+            width: 30%;
+            display: inline-block;
+        }
+    
+        .rede-social-grupo-icones{
+            width: 30%;
+            display: inline-block;
+            margin: 0;
+        }
+     
+        .rede-social-icone{
+            width: 23%;
+            display: inline-block;
+        }
+    
+    
+        .pesquisa{
+        width: 30%;
+        display: inline-block;
+        }
+    
