@@ -147,6 +147,7 @@
         border: none;
         border-radius: 7px; /*Arrumar radios do botão basta colocar px ao inves de %*/
         width: 50%;
+        padding: 15px;
         margin-bottom: 10%;
     }
     .plano-basic-descricao{
