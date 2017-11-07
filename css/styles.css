@@ -121,6 +121,7 @@
 
 /* fim links rede social mobile-*/
 
+
 /* o botão foi colocado mas é elemnto comum à demais sections -*/
     .plano-basic{
         padding: 10px 10px;
@@ -142,8 +143,13 @@
         margin-bottom: 10%;
     }
 
+
+    .plano-checado-img{
+        size: 25px;
+    }
+
 /* fim bloco de planos -*/
 
 @media(min-width: 768px){
-    
+
 }
