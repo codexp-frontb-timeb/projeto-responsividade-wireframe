@@ -141,6 +141,25 @@ body {
         text-align: center;
         background-color: rgb(220,220,220);
     }
+
+    .plano-standart{
+        padding: 10px 10px;
+        margin: 5% 5%;   
+        text-align: center;
+        background-color: rgb(220,220,220);
+        display: none;
+    }
+
+    .plano-pro{
+        padding: 10px 10px;
+        margin: 5% 5%;   
+        text-align: center;
+        background-color: rgb(220,220,220);
+        display: none;
+    }
+
+
+
     .preco-plano{
         margin: 0 10% 10% 0;
         font-weight: bold;
@@ -205,10 +224,14 @@ body {
 
     .final-da-linha{
         background-color: rgb(61,61,61);
+        text-decoration-color: white;
+        -moz-text-decoration-color: white;
     }
 
 /* fim bloco de planos -*/
 
 @media(min-width: 768px){
+
+
 
 }
