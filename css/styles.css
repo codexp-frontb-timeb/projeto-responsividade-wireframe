@@ -255,5 +255,9 @@ body {
         width:30%;
     }
 
+    .noticias{
+        width: 30%;
+        display: inline-block;
+    }
 
 }
