@@ -143,20 +143,29 @@
         padding: 15px;
         margin-bottom: 10%;
     }
-
+    .plano-basic-itens{
+        padding: 20px;
+        background-color: rgb(241, 237, 237);
+        margin: 5% 5%;   
+    }
 
     .plano-checado-img{
+        margin: 0;
+        vertical-align: top;
         width: 10%;
         display: inline-block;
     }
 
-    .plano-checado-img__check-ok{
+    .plano-checado-img__check-ok{        
         width: 100%;
 
     }
 
     .plano-checado-item{
         display: inline-block;
+        margin: 0;
+        padding: 0;
+        width: 88%;
     }
 
 /* fim bloco de planos -*/
