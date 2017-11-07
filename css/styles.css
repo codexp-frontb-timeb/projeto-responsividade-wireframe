@@ -232,6 +232,13 @@ body {
 
 @media(min-width: 768px){
 
+    .plano-standart{
+       display: inline-block;
+    }
+
+    .plano-pro{
+        display: inline-block;
+    }
 
 
 }
