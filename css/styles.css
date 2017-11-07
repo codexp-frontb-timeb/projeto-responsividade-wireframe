@@ -234,17 +234,20 @@ body {
 
 /* fim bloco de planos -*/
 
-@media(min-width: 767px){
+@media(min-width: 768px){
 
     .plano{
         display: inline-block; 
+        width:30%;
     }
     .plano-standart{
        display: inline-block;
+       width:30%;
     }
 
     .plano-pro{
         display: inline-block;
+        width:30%;
     }
 
 
