@@ -150,6 +150,12 @@
         display: inline-block;
     }
 
+    .plano-checado-img__check-ok{
+
+        width: 100%;
+        
+    }
+
     .plano-checado-item{
         display: inline-block;
     }
