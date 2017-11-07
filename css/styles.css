@@ -181,6 +181,18 @@ body {
         padding: 0;
         width: 80%;
     }
+    .pesquisa-conteudo{
+        text-align: center;
+        display: block;
+        width: 90%;
+    }
+    .pesquisa{
+        display: block;
+        text-align: center;
+        padding: 15px;
+        margin: 5px;
+        width: 80%;
+    }
 
 /* fim bloco de planos -*/
 
